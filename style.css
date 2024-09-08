@@ -52,7 +52,7 @@ body {
   }
   
   #content h2 {
-    margin-top: 2em;
+    margin: 0.5em 0;
   }
   
   #content .byline, #content .byline a, #content .note {
